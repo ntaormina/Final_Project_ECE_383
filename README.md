@@ -26,13 +26,15 @@ Functionality Levels
 ====================
 
 Group:
-Required: Mario is able to successfully jump onto the goomba on the first screen
-B: Mario can make it past the first pit obstacle
-A: Mario finishes level 1-1
+======
+-Required: Mario is able to successfully jump onto the goomba on the first screen
+-B: Mario can make it past the first pit obstacle
+-A: Mario finishes level 1-1
 Me:
-Required: Basic processing of an image
-B: Identify where Mario and enemies are
-A: Identify entire environment
+===
+-Required: Basic processing of an image
+-B: Identify where Mario and enemies are
+-A: Identify entire environment
 
 
 Hardware
